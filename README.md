@@ -1,22 +1,22 @@
 <div align="center">
 
-# ⚡ Plus UI – The Ultimate Blogger Template
+# ⚡ Apollu UI – The Ultimate Blogger Template
 ### Professional, Fast, and Monetization-Ready Theme for 2025
 
-[![Version](https://img.shields.io/badge/Version-v3.7.0-blue?style=flat&logo=semver)](https://github.com/blogger-templates/plus-ui/releases)
+[![Version](https://img.shields.io/badge/Version-v3.7.0-blue?style=flat&logo=semver)](https://github.com/iemabdullah/Apollu-UI/releases)
 [![Platform](https://img.shields.io/badge/Platform-Blogger-orange?style=flat&logo=blogger)](https://www.blogger.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=flat&logo=telegram)](https://t.me/Blogger_Templates_Updated)
-[![Telegram Group](https://img.shields.io/badge/Telegram-Support-2CA5E0?style=flat&logo=telegram)](https://t.me/Plus_UI_Official)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=flat&logo=telegram)](https://t.me/ABDULLAHCODED)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Support-2CA5E0?style=flat&logo=telegram)](https://t.me/ABDULLAHCODED)
 
-[Live Demo](https://plus-ul.blogspot.com/) • [Download Latest](https://github.com/blogger-templates/plus-ui/releases) • [Documentation](https://plus-ul.blogspot.com/2024/10/getting-started-and-installation.html) • [Report Issue](https://github.com/blogger-templates/plus-ui/issues)
+[Live Demo](https://www.apollu.us.cc/) • [Download Latest](https://github.com/iemabdullah/Apollu-UI/releases) • [Documentation](https://www.apollu.us.cc/) • [Report Issue](https://github.com/iemabdullah/Apollu-UI/issues)
 
 </div>
 
 ---
 
 ## 📖 Overview
-**Plus UI** is a next-generation, open-source Blogger template engineered for **Core Web Vitals**, **High CTR**, and **Maximum SEO Performance**. Unlike standard themes, Plus UI allows you to build a professional news, tech, or portfolio site without needing to touch a single line of code.
+**Apollu UI** is a next-generation, open-source Blogger template engineered for **Core Web Vitals**, **High CTR**, and **Maximum SEO Performance**. Unlike standard themes, Apollu UI allows you to build a professional news, tech, or portfolio site without needing to touch a single line of code.
 
 It features a unique **Hybrid AMP** engine, built-in **PWA (Progressive Web App)** support, and advanced monetization tools like **Safelink** and **Anti-AdBlock** scripts directly in the XML core.
 
@@ -58,24 +58,24 @@ The next major update focuses on stability, advanced monetization, and UX improv
 
 ## 🛠️ Installation Guide
 
-You can install Plus UI using the standard upload method or the manual HTML method (recommended for a clean install).
+You can install Apollu UI using the standard upload method or the manual HTML method (recommended for a clean install).
 
 ### Option 1: Standard Upload (Easiest)
-1.  Download the latest `.xml` file from the [Releases Section](https://github.com/blogger-templates/plus-ui/releases).
+1.  Download the latest `.xml` file from the [Releases Section](https://github.com/iemabdullah/Apollu-UI/releases).
 2.  Go to **Blogger Dashboard** → **Theme**.
 3.  Click the **▼** arrow next to the "Customize" button.
 4.  Select **Restore** → **Upload**.
-5.  Select the `plus-ui-v3.2.0.xml` file.
+5.  Select the `Apollu -ui-v1.6.xml` file.
 
 ### Option 2: Manual HTML Replacement (Recommended)
 Use this method if the upload fails or to ensure no legacy code remains from your previous theme.
 
-1.  Open the downloaded `plus-ui-v3.2.0.xml` file in a text editor (Notepad, VS Code, etc.).
+1.  Open the downloaded `Apollu-ui-v 1.6.xml` file in a text editor (Notepad, VS Code, etc.).
 2.  **Select All** (`Ctrl + A`) and **Copy** (`Ctrl + C`) the entire code.
 3.  Go to **Blogger Dashboard** → **Theme**.
 4.  Click the **▼** arrow next to "Customize" and select **Edit HTML**.
 5.  Click inside the code editor, **Select All** (`Ctrl + A`), and press **Delete**.
-6.  **Paste** (`Ctrl + V`) the new Plus UI code into the empty editor.
+6.  **Paste** (`Ctrl + V`) the new Apollu UI code into the empty editor.
 7.  Click the **Save** icon (Floppy Disk) in the top right corner.
 
 ---
@@ -121,12 +121,12 @@ Enhance your posts using these built-in classes:
 
 Stay connected for updates, bug fixes, and premium support.
 
-* 📢 **Telegram Channel (Updates):** [t.me/Blogger_Templates_Updated](https://t.me/Blogger_Templates_Updated)
-* 👥 **Telegram Group (Community):** [t.me/Plus_UI_Official](https://t.me/Plus_UI_Official)
-* 🐛 **Report a Bug:** [GitHub Issues](https://github.com/blogger-templates/plus-ui/issues)
+* 📢 **Telegram Channel (Updates):** [https://t.me/ABDULLAHCODED](https://t.me/ABDULLAHCODED)
+* 👥 **Telegram Group (Community):** [https://t.me/ABDULLAHCODED](https://t.me/ABDULLAHCODED)
+* 🐛 **Report a Bug:** [GitHub Issues](https://github.com/iemabdullah/Apollu-UI/issues)
 
 ---
 
 <div align="center">
-  <sub>Developed with ❤️ by Fineshop Design</sub>
+  <sub>Developed with ❤️ by Abdullah Coded</sub>
 </div>
